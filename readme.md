@@ -43,5 +43,7 @@ target: Or how long before the restaurant <v>is ready</v>? Can you ask for me?
 reference: And how much longer does it take for the restaurant to prepare it? Could you help me ask them?
 category: Accuracy/Mistranslation
 severity: minor
-explanation: The target mistranslates "准备好" as "is ready," which implies the restaurant itself being ready (e.g., open). In this context, it should refer to the preparation (e.g., table or meal) being complete, so revise to "preparation is ready" for accuracy.
+explanation: There is a translation error in the target, "准备好" should be translated as "preparation is ready" in the context; so, change "is ready" to "preparation is ready".
+
+
 ```

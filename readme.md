@@ -5,7 +5,7 @@ The data files include:
 - **Zhen-1080**: 1080 sentences (Chinese-English translation errors).
 - **Ende-954**: 954 sentences (English-German translation errors).
 
-Each data entry contains the following information:
+Each data entry contains the following information (except for the Error Explanation, all other fields are derived from MQM manual annotation):
 - **Source**: The original text in the source language.
 - **Target**: The translated text in the target language.
 - **Reference**: The correct or ideal translation.

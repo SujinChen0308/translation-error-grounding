@@ -5,7 +5,7 @@ The data files include:
 - **zhen:** 1080 Chinese-English translation errors
 - **ende:** 954 English-German translation errors
 
-Each data entry contains the following information (except for the ‘Explanation’, all fields are from MQM manual annotation of the errors [WMT 2022](http://www.statmt.org/wmt22/)):
+Each data entry contains the following information (except for the ‘Explanation’, all fields are from [MQM manual annotation of the errors](http://www.statmt.org/wmt22/)):
 - **Source**: The original text in the source language.
 - **Target**: The translated text in the target language.
 - **Reference**: Reference: The manual translation.
